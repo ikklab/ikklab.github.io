@@ -15,7 +15,7 @@ img {
     object-fit: contain;
     width: 55%;
     border-radius: 20px;
-    filter: drop-shadow(6px 5px 40px #6c89af);
+    filter: drop-shadow(5px 5px 50px #6c89af);
 }
 
 .container {
