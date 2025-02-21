@@ -31,13 +31,3 @@ body {
 .rtl {
     direction: rtl;
 }
-
-.image {
-    background-image: url("/ramadan/assets/greeting_en.jpg");
-    /* object-fit: contain; */
-    background-size: contain;
-    background-position: center;
-    background-repeat: no-repeat;
-    width: 100%;
-    height: 1920px;
-}
