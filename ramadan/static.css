@@ -11,7 +11,7 @@ html, body {
 
 img {
     object-fit: contain;
-    width: 55%;
+    width: 60%;
     border-radius: 20px;
     filter: drop-shadow(5px 5px 50px #6c89af);
 }
@@ -28,5 +28,5 @@ img {
 }
 
 .download {
-    width: 50px;
+    width: 2rem;
 }
